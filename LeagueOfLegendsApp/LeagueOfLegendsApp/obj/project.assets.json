@@ -1,0 +1,57 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {},
+    ".NETFramework,Version=v4.7.2/win-x64": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\zionv\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\zionv\\OneDrive\\Bureaublad\\source\\repos\\LeagueOfLegendsApp\\LeagueOfLegendsApp\\LeagueOfLegendsApp.csproj",
+      "projectName": "LeagueOfLegendsApp",
+      "projectPath": "C:\\Users\\zionv\\OneDrive\\Bureaublad\\source\\repos\\LeagueOfLegendsApp\\LeagueOfLegendsApp\\LeagueOfLegendsApp.csproj",
+      "packagesPath": "C:\\Users\\zionv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zionv\\OneDrive\\Bureaublad\\source\\repos\\LeagueOfLegendsApp\\LeagueOfLegendsApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\zionv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
+      }
+    }
+  }
+}
